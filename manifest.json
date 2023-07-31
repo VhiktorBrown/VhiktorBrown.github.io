@@ -1,11 +1,11 @@
 {
-    "name": "victors_portfolio",
-    "short_name": "victors_portfolio",
+    "name": "Victor's Portfolio",
+    "short_name": "Victor's portfolio",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "My Portfolio website buuiult with Flutter",
+    "description": "My Portfolio website built with Flutter",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
